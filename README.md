@@ -1,4 +1,4 @@
-👋###i, I’m @BenjaminSamuel
+## i, I’m @BenjaminSamuel👋
 - 👀 I’m interested in making businesses and organization grow..
 - 🌱 I’m currently learning data analytics..
 - 💞️ I’m looking to collaborate and help on data projects with SQL,Microsoft Excel,PowerBI,Tableau...
